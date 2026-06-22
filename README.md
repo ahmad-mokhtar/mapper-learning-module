@@ -11,7 +11,7 @@ A Jupyter notebook designed for high school students to explore the **Mapper alg
 Click this link to open the notebook directly in Google Colab (no installation, just a Google account):
 
 ```
-https://colab.research.google.com/github/ahmad-mokhtar/mepper-learning-module/blob/main/mapper_intro.ipynb
+https://colab.research.google.com/github/ahmad-mokhtar/mapper-learning-module/blob/main/mapper_intro.ipynb
 ```
 
 Then:
